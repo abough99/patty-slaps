@@ -9,24 +9,6 @@ This project is developed to optimize restaurant operations for **Patty Slaps**.
 - **Job Application Portal:** Simplified hiring process for prospective employees.
 - **Inventory Management & Tracking:** Monitor stock levels and reduce waste.
 
-## Installation
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-repo/patty-slaps.git
-   ```
-2. Navigate to the project directory:
-   ```sh
-   cd patty-slaps
-   ```
-3. Install dependencies:
-   ```sh
-   npm install  # or yarn install
-   ```
-4. Start the development server:
-   ```sh
-   npm start  # or yarn start
-   ```
-
 ## Usage
 - Employees can log in to manage their schedules.
 - Customers can place orders at in-person kiosks.
@@ -35,7 +17,4 @@ This project is developed to optimize restaurant operations for **Patty Slaps**.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss proposed modifications.
-
-## Contact
-For inquiries, please contact **Amine Boughanmi** at **aboughanmi99@gmail.com**.
 
